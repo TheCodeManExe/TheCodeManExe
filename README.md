@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCodeManExe
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me n/a
 - 😄 Pronouns: He, Cool, Awesome
